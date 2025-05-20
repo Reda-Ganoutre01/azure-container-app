@@ -1,0 +1,12 @@
+{
+  "name": "azure-container-app",
+  "version": "1.0.0",
+  "description": "Containerized Node.js app with visit counter for Azure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

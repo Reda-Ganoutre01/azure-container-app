@@ -17,8 +17,8 @@ Ce projet implémente l'exemple de déploiement sur Azure Cloud avec une applica
 1. Créez un nouveau dépôt sur GitHub
 2. Clonez le dépôt en local:
    ```
-   git clone https://github.com/VOTRE-UTILISATEUR/VOTRE-REPO.git
-   cd VOTRE-REPO
+   git clone https://github.com/Reda-Ganoutre01/azure-container-app.git
+   cd azure-container-app
    ```
 3. Copiez tous les fichiers du projet dans ce dossier
 
